@@ -52,8 +52,8 @@ bootstrap.pug
     └── theme-template.pug
 
 ```
-  
-  
+
+
 ## Features
 
   * Bootstrap set as the default UI framework

@@ -1,14 +1,16 @@
 {
-  "name": "jade-bootstrap",
+  "name": "npm-bootstrap",
   "version": "1.0.0",
-  "homepage": "https://github.com/rajasegar/JADE-Bootstrap",
+  "homepage": "https://github.com/kodji/pug-bootstrap",
   "authors": [
+    "kodji <k@odj.in>",
     "Rajasegar <rajasegar.c@gmail.com>"
   ],
-  "description": "Bootstrap framework written completely using mixins in JADE",
-  "main": "bootstrap.jade",
+  "description": "Bootstrap framework written completely using mixins in pugjs",
+  "main": "bootstrap.pug",
   "keywords": [
     "jade",
+    "pug",
     "bootstrap",
     "frontend",
     "ui",
